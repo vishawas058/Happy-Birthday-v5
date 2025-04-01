@@ -32,4 +32,32 @@ To get started with the Happy-Birthday-v5 project, follow these steps:
 2. Navigate to the project directory:
    ```bash
    cd Happy-Birthday-v5
-   
+3. Install the necessary dependencies:
+   ```bash
+   npm install
+## Usage
+After installing the necessary dependencies, you can start the application by running:
+   ```bash
+   npm start
+```
+Open your browser and navigate to http://localhost:3000 to see the application in action.
+## Contributing
+We welcome contributions to the Happy-Birthday-v5 project! To contribute, follow these steps:
+
+   1. Fork the repository.
+   2. Create a new branch:
+      ```bash
+      git checkout -b feature/your-feature-name
+3. Make your changes and commit them:
+   ```bash
+   git commit -m "Add your commit message"
+4. Push to the branch:
+   ```bash
+   git push origin feature/your-feature-name
+5. Create a pull request describing your changes.
+
+## License
+
+This project is licensed under the MIT License. See the LICENSE file for more information.
+Code
+
